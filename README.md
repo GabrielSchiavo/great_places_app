@@ -1,9 +1,9 @@
-# great-places-app
+# great_places_app
 
 <p align="left">
    <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/> 
    <!-- <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
-   <img src="https://img.shields.io/github/license/GabrielSchiavo/great-places-app?color=blue&style=for-the-badge"/>
+   <img src="https://img.shields.io/github/license/GabrielSchiavo/great_places_app?color=blue&style=for-the-badge"/>
 </p>
 
 App de cadastro e exibição de locais utilizando a API do Google Maps e armazenamento dos dados em um Banco de Dados relacional local. App desenvolvido com a linguagem Dart e framework Flutter.
